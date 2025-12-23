@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Virüs_Antivirüs  // BURASI PROJE ADINLA AYNI OLDU
+namespace Virüs_Antivirüs 
 {
     static class Program
     {
